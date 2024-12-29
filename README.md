@@ -19,7 +19,7 @@ const assasin007-24 = {
 <div align="center">
 
   ![](https://github-readme-stats-two-rho.vercel.app/api?show_bg=1&username=assasin007-24&theme=gruvbox&show_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-two-rho.vercel.app/api/top-langs/?username=assasin007-24&hide_progress=false&langs_count=30&theme=gruvbox&layout=pie)
+![Top Languages](https://mihai14launcher-readme.vercel.app/api/top-langs/?username=assasin007-24&hide_progress=false&langs_count=30&theme=gruvbox&layout=pie)
 
 </div>
 <div align="center">
