@@ -18,11 +18,10 @@ const assasin007-24 = {
 
 <div align="center">
 
-  ![](https://github-api-readme-api.vercel.app/api?show_bg=1&username=assasin007-24&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-  ![](https://github-api-readme-api.vercel.app/api/top-langs/?username=assasion007-24&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats-two-rho.vercel.app/api?show_bg=1&username=assasin007-24&theme=gruvbox&show_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-two-rho.vercel.app/api/top-langs/?username=assasin007-24&hide_progress=false&langs_count=30&theme=gruvbox&layout=pie)
 
 </div>
-
 <div align="center">
 
   ![Snake animation](https://github.com/assasin007-24/assasin007-24/blob/output/github-contribution-grid-snake-dark.svg)
