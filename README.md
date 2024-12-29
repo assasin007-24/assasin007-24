@@ -6,7 +6,7 @@ const assasin007-24 = {
     bio: "Developer, Backend & Frontend",
     techStack: {
         languages: ["JavaScript", "Python" , "GO"],
-        libraries: ["Java", "ASM"],
+        libraries: ["Java", "RUST"],
         frameworks: ["Vite", "Bootstrap"],
         cssTools: ["TailwindCSS"],
         deployment: ["Vercel", "Github", "Netlify"],
