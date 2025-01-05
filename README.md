@@ -1,35 +1,76 @@
 
-<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<div align="center">
+  <h1 style="font-family:monospace; color:lime;">Welcome to My Hacker Zone! 🕶️</h1>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</div>
 
 ```javascript
-const assasin007-24 = {
+const assasin007_24 = {
     bio: "Developer, Backend & Frontend",
     techStack: {
-        languages: ["JavaScript", "Python" , "GO"],
-        libraries: ["Java", "RUST"],
+        languages: ["JavaScript", "Python", "Go"],
+        libraries: ["Java", "Rust"],
         frameworks: ["Vite", "Bootstrap"],
         cssTools: ["TailwindCSS"],
-        deployment: ["Vercel", "Github", "Netlify"],
+        deployment: ["Vercel", "GitHub", "Netlify"],
     },
     designTools: ["Canva", "Microsoft Paint"],
-    motto: "The future is bright!",
+    motto: "Hack the planet!",
 };
 ```
 
 <div align="center">
 
-  ![](https://github-readme-stats-two-rho.vercel.app/api?show_bg=1&username=assasin007-24&theme=gruvbox&show_border=true&show_icons=true&include_all_commits=true&count_private=true)
-  ![assasin007-24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=assasin007-24&theme=prussian&hide_border=true)
-![Top Languages](https://mihai14launcher-readme.vercel.app/api/top-langs/?username=assasin007-24&hide_progress=false&langs_count=30&theme=gruvbox&layout=pie)
+---
 
-</div>
-<div align="center">
+### 🔍 **Tech Overview**
+> "Building the future, one line of code at a time."
 
-  ![Snake animation](https://github.com/assasin007-24/assasin007-24/blob/output/github-contribution-grid-snake-dark.svg)
+| 💻 **Languages**       | 🛠️ **Frameworks**    | 🌐 **Deployment** |
+|-------------------------|----------------------|--------------------|
+| JavaScript, Python, Go  | Vite, Bootstrap     | Vercel, Netlify   |
+| Rust, Java             | TailwindCSS         | GitHub Pages      |
 
-  ---
-  #### <img src="https://media.giphy.com/media/WygrrSksa7x4PHFXxM/giphy.gif" height="30"> <em><b>Always up for a chat and geeking out about all things tech!</b>💻<3</em>
+---
 
-  ![](https://komarev.com/ghpvc/?username=assasin007-24&color=blueviolet)
+### 📈 **Stats Dashboard**
+```shell
+Tracking: [ Commits 🔥 | Streak 🔒 | Languages 🌎 ]
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assasin007-24&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=assasin007-24&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assasin007-24&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📂 **HackVault Repositories**
+```shell
+Accessing Hacker Repos...
+```
+[![SkyDown](https://github-readme-stats.vercel.app/api/pin/?username=assasin007-24&repo=skydown&theme=radical)](https://github.com/assasin007-24/skydown)
+[![Anime Theme Panel](https://github-readme-stats.vercel.app/api/pin/?username=assasin007-24&repo=-PANEL-Anime-Theme&theme=radical)](https://github.com/assasin007-24/-PANEL-Anime-Theme)
+
+---
+
+### 🐍 **Activity Grid**
+```shell
+Analyzing contribution grid...
+```
+![Snake animation](https://github.com/assasin007-24/assasin007-24/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 📞 **Contact Me**
+> "Always available for a quick hack or collaboration."
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/assasin007-24)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/@mihai-01_01)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/EY7v56BeFc)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok)](https://tiktok.com/@mihai14launcher)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:assasin.007.24@gmail.com)
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=assasin007-24&color=green)
 
 </div>
