@@ -72,5 +72,5 @@ Analyzing contribution grid...
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=assasin007-24&color=green)
-
+[![wakatime](https://wakatime.com/badge/user/979a69e4-e2a9-4c48-a3b9-7fbd9d4edc12/project/f775982f-9f3a-4ea0-a15d-9dda75ae6526.svg)](https://wakatime.com/badge/user/979a69e4-e2a9-4c48-a3b9-7fbd9d4edc12/project/f775982f-9f3a-4ea0-a15d-9dda75ae6526)
 </div>
