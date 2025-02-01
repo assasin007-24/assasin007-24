@@ -28,9 +28,21 @@ const assasin007_24 = {
 
 | 💻 **Languages**       | 🛠️ **Frameworks**    | 🌐 **Deployment** |
 |-------------------------|----------------------|--------------------|
-| JavaScript, Python, Go  | Vite, Bootstrap     | Vercel, Netlify   |
-| Rust, Java             | TailwindCSS         | GitHub Pages      |
+| JavaScript | Vite   | Vercel |
+| Rust             | TailwindCSS         | GitHub Pages      |
+| Python | Bootstrap | Netlify |
+| Go | 
+| HTML |
+| NodeJS |
+| PHP |
 
+Currently learning :
+| 💻 Languages | 😺 API | 
+|---------------|--------------|
+| C | Pterodactyl Panel |
+| C++ | 
+| Java |
+| Lua |
 ---
 
 ### 📈 **Stats Dashboard**
